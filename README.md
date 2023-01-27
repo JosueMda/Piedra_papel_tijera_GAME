@@ -6,6 +6,6 @@ juegos.py contiene la función creada para realizar la comparación entre la ele
 
 The classic "rock, paper, scissors" game developed with Python to run on the console.
 It is made up of two files:
-main.py contains the code with the messages to interact with the user and a game counter
-juego.py contains the function created to perform the comparison between the user's choice and that of Python
+main.py contains the code with the messages to interact with the user and a game counter.
+juego.py contains the function created to perform the comparison between the user's choice and that of Python.
 
